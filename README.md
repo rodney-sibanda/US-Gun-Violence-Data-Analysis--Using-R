@@ -54,4 +54,4 @@ Using residual plots, check for:
 
 ![image](https://user-images.githubusercontent.com/126027138/221378901-a1f60c35-b54f-41d3-88f9-17e2e68bbe4c.png)
 
-The residual plots of suggest that the model assumption of states with greater gun ownership also have more gun-related deaths is NOT true. With a positive non - linear pattern being shown in the first residual graph and also with the uneven right-skewed histrogram, we can come to the conclusion that the underlying assumption is false. 
+The residual plots of suggest that the model assumption of states with greater gun ownership also have more gun-related deaths is true. With a positive non - linear pattern being shown in the first residual graph and also with the uneven right-skewed histrogram, we can come to the conclusion that the underlying assumption is true. 
